@@ -53,7 +53,7 @@ conocimientos y poder agregar más herramientas
  </br>
 
 
-<img hight="320" width="400" align="right" alt="GIF" src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif">
+<img hight="320" width="300" align="right" alt="GIF" src="https://media.giphy.com/media/wkW0maGDN1eSc/giphy.gif">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=martindaniei&theme=highcontrast&hide_border=verdadero&border_radius=9&locale=es)](https://git.io/streak-stats)
 
