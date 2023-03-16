@@ -39,6 +39,6 @@ conocimientos y poder agregar más herramientas
 
 <p align="center">
 
-    <img src="/PerfilGitHub/assets/img/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
+    <img src="https://github.com/MartinDanieI/martindaniei/edit/main/PerfilGitHub/assets/img/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
     
     
