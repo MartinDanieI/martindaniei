@@ -23,6 +23,11 @@
 - 🖤  Ver series y Peliculas de Netflix
 - 🖤  Jugar Basquetbol
 - 🖤  Ir al GYM
+### - APRENDIENDO :
+- 🖤 java script
+- 🖤 Bootstrap
+- 🖤 Angular
+- 🖤 MongoDB
 
 </br>
 </br>
@@ -44,9 +49,6 @@ conocimientos y poder agregar más herramientas
 
  <img hight="150" width="150" alt="GIF" align="center" src="http://pa1.narvii.com/7006/3d41233a7962bdb701c1d0172ba20f16ac49edf0r1-366-366_00.gif">
  
- - VISUAL STUDIO CODE
- <img hight="150" width="150" alt="GIF" align="center" src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
-
 # MIS ESTADÍSTICAS :
 
 <p>
