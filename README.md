@@ -2,7 +2,7 @@
 
 <div align="center">
     <img hight="300" width="400" alt="GIF" align="center"
-        src="https://media.giphy.com/media/6m2STVyQH2F45QL3bG/giphy.gif">
+        src="https://media.giphy.com/media/jdFm2bcWlj4EUVCpc0/giphy.gif">
 
 </div>
 </br>
@@ -45,9 +45,23 @@ conocimientos y poder agregar más herramientas
 
 </br>
 
-- HTML Y CSS
-
- <img hight="150" width="150" alt="GIF" align="center" src="http://pa1.narvii.com/7006/3d41233a7962bdb701c1d0172ba20f16ac49edf0r1-366-366_00.gif">
+<div aling="center">
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"
+            alt="" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
+        alt="" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"
+        alt="" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
+        alt="" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"
+        alt="" width="60" height="60">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"
+        alt="" width="60" height="60">
+    </div>
+</div>
+ 
  
 # MIS ESTADÍSTICAS :
 
