@@ -20,8 +20,6 @@
 ### - Lo que me gusta hacer:
 - 🖤  Jugar videojuegos
 - 🖤  Ver Anime
-- 🖤  Ver series y Peliculas de Netflix
-- 🖤  Jugar Basquetbol
 - 🖤  Ir al GYM
 ### - APRENDIENDO :
 - 🖤 java script
