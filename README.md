@@ -12,7 +12,7 @@
 
 # ¿QUIÉN SOY?💬 :
 
-### - Tengo 19 años, actualmente vivo en Colombia, pero espero que en un futuro tenga la oportunidad de vivir en otro país ya sea solo o con mi familia, luego de estudiar en BIT, me gustaría estudiar animación digital para crear mi propio anime y manga.
+### - Tengo 21 años, actualmente vivo en Colombia, pero espero que en un futuro tenga la oportunidad de vivir en otro país ya sea solo o con mi familia, luego de estudiar en BIT, me gustaría estudiar animación digital para crear mi propio anime y manga.
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif">
 
